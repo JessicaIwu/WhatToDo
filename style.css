@@ -1,0 +1,37 @@
+.body-div{
+	border: 1px dotted #ccc;
+	width: 70%;
+	height: 20%;
+	margin: 0 auto;
+	background-color: grey;
+
+}
+.body-div h1{
+	font-family: monospace;
+	color: white;
+	text-align: center;
+}
+.InputNdButton{
+	width: 70%;
+	margin: 0 auto;
+}
+#inputId{
+	width: 64%;
+	padding: 2%; 
+}
+#inputBtn{
+	width: 30%;
+	padding: 2%;
+}
+#itemsArea{
+	background-color: #EBEBEB;
+	width: 70%;
+	height: 20%;
+	margin: 0 auto;
+
+}
+#itemsArea ul{
+	padding-top: 2%;
+	font-family: monospace;
+	font-size: 18px;
+}
